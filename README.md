@@ -3,9 +3,9 @@
 # CodSoft Machine Learning Internship – Projects
 
 This repository contains the **three Machine Learning projects** I completed as part of my **CodSoft Machine Learning Internship**.
-**1. Customer Churn Prediction.
-**2. SMS Spam Detection.
-**3. Movie Genre Classification. 
+## 1. Customer Churn Prediction.
+## 2. SMS Spam Detection.
+## 3. Movie Genre Classification. 
 
 The projects helped me gain practical experience in **data preprocessing, exploratory data analysis, feature engineering, Natural Language Processing (NLP), model training, evaluation, and prediction** using Python and Machine Learning libraries.
 
